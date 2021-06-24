@@ -1,0 +1,7 @@
+[Common]
+DB_USER = user
+DB_PWD  = supersecretpassword123
+DB_HOST = localhost
+DB_PORT = 5432
+DB_NAME = staking
+CURRENCIES = DOT.S
